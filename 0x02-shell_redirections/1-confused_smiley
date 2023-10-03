@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "\xf0\x9f\x98\xb1\n"
+echo -e "\U0001F635"
